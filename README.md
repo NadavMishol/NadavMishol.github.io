@@ -1,12 +1,13 @@
 
 Hello,
-I'm a student at [The Weizmann Institue of Science](https://www.weizmann.ac.il). It is named after [Chaim Weizmann](https://www.britannica.com/biography/Chaim-Weizmann). I rate 10/10. Would recommend.
+I'm a student at [The Weizmann Institue of Science](https://www.weizmann.ac.il). I rate 10/10, Would recommend.
+It is named after [Chaim Weizmann](https://www.britannica.com/biography/Chaim-Weizmann). 
+That's about it for now, but hang in there for more updates in the future!
 
 
 <img src="WIZ.jpeg" alt="Weizmann Logo" width="500">
 <img src="DrWiz.jpg" alt="Dr Weizmann" width="500">
 
-That's about it for now, but hang in there for updates in the future!
 <br />
 <br />
 <br />
@@ -396,6 +397,7 @@ No Shannanigans are wating for you down there.
 <br />
 <br />
 <br />
-Ugh, fine. Here are pictures of cute dogs:
+Fine, Here are pictures of cute dogs:
 
-| ![Mika](Mika.jpg) | ![Puchi](MyDog.jpg) |
+<img src="Mika.jpg" alt="Mika" width="700">
+<img src="MyDog.jpg" alt="Puchi" width="700">
