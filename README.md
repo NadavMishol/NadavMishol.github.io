@@ -1,7 +1,8 @@
 
 Hello,
-I'm a student at [The Weizmann Institue of Science](https://www.weizmann.ac.il). I rate 10/10, Would recommend.
+I'm a student at [The Weizmann Institue of Science](https://www.weizmann.ac.il). 
 It is named after [Chaim Weizmann](https://www.britannica.com/biography/Chaim-Weizmann). 
+<br />
 That's about it for now, but hang in there for more updates in the future!
 
 
