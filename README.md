@@ -398,3 +398,4 @@ Ugh, fine. Here are pictures of cute dogs:
 
 | ![Mika](Mika.jpg) | ![Puchi](MyDog.jpg) |
 |:---:|:---:|
+| Mika | Puchi |
