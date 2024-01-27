@@ -1,10 +1,12 @@
 
 Hello,
-I'm a student at [Weizmann](https://www.weizmann.ac.il).
+I'm a student at [The Weizmann Institue of Science](https://www.weizmann.ac.il). It is named after [Chaim Weizmann](https://www.britannica.com/biography/Chaim-Weizmann). I rate 10/10. Would recommend.
+
+
+<img src="WIZ.jpeg" alt="Weizmann Logo">
+<img src="DrWiz.jpeg" alt="Dr Weizmann">
+
 That's about it for now, but hang in there for updates in the future!
-
-
-
 <br />
 <br />
 <br />
